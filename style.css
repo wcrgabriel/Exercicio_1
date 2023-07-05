@@ -1,0 +1,33 @@
+/* styles.css */
+
+/* Estilos para o corpo da página */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    background-color: rgb(224, 231, 229);
+    align-items: center;
+    text-align: center;
+  }
+  
+  /* Estilos para o título principal */
+  h1 {
+    font-family: Verdana, sans-serif;
+    color: #333;
+    font-size: 24px;
+  }
+  
+  /* Estilos para o subtítulo */
+  h2 {
+    color: #352e2e;
+    font-size: 18px;
+  }
+  
+  /* Estilos para os parágrafos */
+  p {
+    color: #444;
+    font-size: 14px;
+    line-height: 1.5;
+  }
+  
+  
